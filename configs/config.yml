@@ -1,0 +1,7 @@
+port: "8080"
+
+db:
+  username: "subzero"
+  host: "localhost:5800"
+  dbname: "yandexORM"
+  sslmode: "disable"
